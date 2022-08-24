@@ -661,7 +661,7 @@ SECCIÓN 16–9 Localización de fallas
 ![Uploading image.png…]()
 
 Resolución 
-
+n 
 
 
 4. VIDEO 
