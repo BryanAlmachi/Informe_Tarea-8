@@ -23,11 +23,25 @@ SECCIÓN 15–1 El sistema de los números complejos
 
 Resolución 
 
+(a) ![image](https://user-images.githubusercontent.com/105255508/186537977-0e18612b-3790-466b-94cf-df78acbc2431.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186538036-d66932bc-b30e-4705-bdfd-32360f350c22.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186538071-d3b51e10-7598-40f8-9852-6032ed18b83b.png)
+
+(d) ![image](https://user-images.githubusercontent.com/105255508/186538106-e6ea8d98-a42e-4391-8c2a-9c803c63a388.png)
+
 4. Determine las coordenadas de cada punto que tenga igual magnitud, pero esté localizado a 180° de ca da uno de los puntos del problema 3. 
 
 (a) 3, j5  (b) -7, j1  (c) -10, -j10
 
 Resolución 
+
+(a) ![image](https://user-images.githubusercontent.com/105255508/186538232-3d4b107b-06db-43d2-98ce-b39ea60c0ec4.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186538256-164c11df-4246-4010-80ab-537b93ca1383.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186538284-323c8d8b-c272-4f24-900e-2ef093e728ec.png)
 
 6. A continuación se describen puntos localizados en el plano complejo. Exprese cada punto como un número complejo en forma rectangular: 
 
@@ -39,23 +53,49 @@ Resolución
 
 Resolución 
 
+(a) 3 + j5
+
+(b) -2 + j1.5
+
+(c) -10 - j14
+
 8. Convierta cada uno de los siguientes números rectangulares a forma polar: 
 
 (a) 40-j40  (b) 50-j200  (c) 35-j20  (d) 98 + j45 
 
 Resolución 
 
+(a) ![image](https://user-images.githubusercontent.com/105255508/186538472-0d5c1372-07e6-4df7-8ebd-e35717c8d7d8.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186538496-72ac666a-375e-4760-a883-e7085e9c0f1b.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186538526-477d57d1-a70c-4b95-a66e-f442cae31449.png)
+
+(d) ![image](https://user-images.githubusercontent.com/105255508/186538552-ef13e46d-5366-4ad8-9a80-cca67bc42b2f.png)
+
 10. Exprese cada uno de los siguientes números polares utilizando un ángulo negativo para reemplazar al positivo.
 
- (a) 10 -120° (b) 32 -85°  (c) 5 -310°
- 
+![image](https://user-images.githubusercontent.com/105255508/186538671-ba0a0f7d-bc23-437a-be8c-3ea9bfabf1bf.png)
+
 Resolución 
+
+(a) ![image](https://user-images.githubusercontent.com/105255508/186538699-8ef2e72e-aeac-4351-bd73-8d8dc6baa3eb.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186538728-98af9af9-cd08-43f4-b7df-79c746a48c95.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186538768-57afdccb-fa59-4ec6-a00e-53d522890159.png)
 
 12. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10.
 
-(a) 10 -120° (b) 32 -85°  (c) 5 -310°
+![image](https://user-images.githubusercontent.com/105255508/186538671-ba0a0f7d-bc23-437a-be8c-3ea9bfabf1bf.png)
 
 Resolución 
+
+(a) Segundo Cuadrante 
+
+(b) Primer Cuadrante 
+
+(c) Cuarto Cuadrante 
 
 14. Sume los siguientes conjuntos de números complejos
 
@@ -63,11 +103,35 @@ Resolución
 
 Resolución 
 
+(a) ![image](https://user-images.githubusercontent.com/105255508/186538972-6c6818fb-5e53-40cb-8cff-78531dd95130.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186538991-482ec3e1-68bb-4965-ba54-e4c6adcee412.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186539015-dc1d807d-87dc-462c-8793-f83fa3a5c357.png)
+
+(d) ![image](https://user-images.githubusercontent.com/105255508/186539031-235c2c44-a9bd-4486-8871-38723df20f9f.png)
+
+(e) ![image](https://user-images.githubusercontent.com/105255508/186539054-8eaa2f2e-aba4-40a3-b1ed-0e570bcc3504.png)
+
+(f) ![image](https://user-images.githubusercontent.com/105255508/186539080-bfa5ae74-1d8d-473c-bd48-fc53c9c85c84.png)
+
 16. Multiplique los siguientes números:
 
 ![image](https://user-images.githubusercontent.com/105255508/186522280-1b201c96-75a8-4738-a6f8-368ccf33eeb4.png)
 
 Resolución 
+
+(a) ![image](https://user-images.githubusercontent.com/105255508/186539195-eb2d584c-a578-431e-9f4c-7ce95cf2faf2.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186539212-6b519e64-04f8-4281-be14-19f2edbca4e5.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186539273-4ad79600-c639-4793-a7b4-d1e9f64d0f08.png)
+
+(d) ![image](https://user-images.githubusercontent.com/105255508/186539301-57aef61b-79d7-4363-a6f1-eb7be18b56b3.png)
+
+(e) ![image](https://user-images.githubusercontent.com/105255508/186539328-f37ac478-eeab-4899-b5ca-3691911ec68e.png)
+
+(f) ![image](https://user-images.githubusercontent.com/105255508/186539352-1ade7a3a-6e8e-49cc-b1dc-f2b03779f9fb.png)
 
 18. Realice las siguientes operaciones:
 
@@ -75,12 +139,23 @@ Resolución
 
 Resolución 
 
+(a) ![image](https://user-images.githubusercontent.com/105255508/186539402-2c397fc5-3d74-49a9-9755-08678a1119af.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186539424-8a493e68-e2a1-4974-b02a-757160a259a3.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186539469-5169acf3-d0dc-4c57-b8a0-d2ddff06523c.png)
+
+(d)![image](https://user-images.githubusercontent.com/105255508/186539482-bc8eddb0-e21f-4aa5-af96-4acde29f2188.png)
+
 SECCIÓN 15–2 Respuesta sinusoidal de circuitos RC en serie
 
 20. ¿Cuál es la forma de onda de la corriente en el circuito del problema 19?
 
 Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
+
 Resolución 
+
+R= La corriente es Senoidal 
 
 SECCIÓN 15–3 Impedancia de circuitos RC en serie
 
@@ -89,6 +164,12 @@ SECCIÓN 15–3 Impedancia de circuitos RC en serie
 ![image](https://user-images.githubusercontent.com/105255508/186522343-53d5e36c-7a62-441e-8315-2c7fc7ab8ab0.png)
 
 Resolución 
+
+(a) ![image](https://user-images.githubusercontent.com/105255508/186539914-910f9484-2817-4b98-a335-261e88a54c43.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186539939-b0949b05-a09d-4d7d-ba98-662dcbf68364.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186539969-542214b3-743c-4c69-a5a8-a9f587e18555.png)
 
 24. Repita el problema 23 con C =0.0047 µF.
 
@@ -100,6 +181,14 @@ Para el circuito de la figura 15-86, determine la impedancia expresada en forma 
  
 Resolución 
 
+(a) ![image](https://user-images.githubusercontent.com/105255508/186540036-9235c07a-3a56-45c0-9c64-c864c078c8af.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186540063-73de33c0-10ff-4e7c-923b-3c29dcbf6f1b.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186540093-c7d88462-3282-4b78-bfcf-cef4e25ed625.png)
+
+(d) ![image](https://user-images.githubusercontent.com/105255508/186540110-36d911c7-0cab-4d2a-9038-08c1c88a90fa.png)
+
 SECCIÓN 15–4 Análisis de circuitos RC en serie
 
 26. Exprese la corriente en forma polar para cada circuito de la figura 15-84.
@@ -108,11 +197,21 @@ SECCIÓN 15–4 Análisis de circuitos RC en serie
 
 Resolución 
 
+(a) ![image](https://user-images.githubusercontent.com/105255508/186540159-ce39e57d-4f02-4b40-826a-c2160be5cccf.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186540170-f8268436-a6e4-4b5c-8642-4ee02c29c744.png)
+
 28. Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85.
 
 ![image](https://user-images.githubusercontent.com/105255508/186522492-7714ea6a-5a80-4823-8f2b-ca1cdf0813bd.png)
 
 Resolución 
+
+(a) ![image](https://user-images.githubusercontent.com/105255508/186540231-2c57d17c-fecc-44c8-b544-c94569d3251c.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186540252-fe89d84d-c7a2-4ce3-8f0f-4f4948339f9e.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186540287-bf27d6ee-e3de-4035-951b-ad7110cd1ea9.png)
 
 30. Para el circuito de la figura 15-87, trace el diagrama fasorial que muestre todos los voltajes y la corriente total. Indique los ángulos de fase.
 
@@ -120,11 +219,19 @@ Resolución
 
 Resolución 
 
+![image](https://user-images.githubusercontent.com/105255508/186540360-b01b3770-d681-4de5-82ae-541a81d01701.png)
+
+Angulos de fase
+
+![image](https://user-images.githubusercontent.com/105255508/186540412-f05803dc-de92-4bb8-b57d-5060506560db.png)
+
 32. ¿A qué valor se debe ajustar el reóstato de la figura 15-89 para hacer que la corriente total sea de 10 mA? ¿Cuál es el ángulo resultante?
 
 ![image](https://user-images.githubusercontent.com/105255508/186522553-65b9f49e-aa5e-4470-8363-ccc72d9cc50c.png)
 
 Resolución 
+
+![image](https://user-images.githubusercontent.com/105255508/186540455-c4be1654-b397-4b1f-9892-e3d33eddb07f.png)
 
 34. Para el circuito de retraso de la figura 15-91, determine el desplazamiento de fase entre el voltaje de entrada y el voltaje de salida para cada una de las siguientes frecuencias:
 
@@ -134,17 +241,35 @@ Resolución
 
 Resolución 
 
+(a) ![image](https://user-images.githubusercontent.com/105255508/186540526-9d9fe1df-8895-436b-a7dc-857d8c7ef9c7.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186540538-d7d31b4e-d43f-422c-b920-3b448e4410a3.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186540554-2cb314cc-0c53-4c14-8169-3e41e08d3deb.png)
+
+(d) ![image](https://user-images.githubusercontent.com/105255508/186540573-85a266ba-d49b-4560-9b7b-0957f301c01b.png)
+
 36. Repita el problema 34 para el circuito de adelanto de la figura 15-92.
 
 ![image](https://user-images.githubusercontent.com/105255508/186522834-f9d60a10-1b7d-4ca0-97f0-0b5223619bf2.png)
 
 Resolución 
 
+(a) ![image](https://user-images.githubusercontent.com/105255508/186540649-44e7b218-27bf-4e5b-8fee-b737295f3f83.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186540665-9cb4bd1e-49e0-49a4-bcc1-78719fe09fb4.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186540686-7ba4e8fd-c0e4-4eba-a8c1-0c28b2472d09.png)
+
+(d) ![image](https://user-images.githubusercontent.com/105255508/186540710-5ab52943-088d-4253-ae4c-befe98153416.png)
+
 38. Trace el diagrama fasorial de voltaje para el circuito de la figura 15-91 para una frecuencia de 5 kHz con Vs= 1 V rms.
 
 ![image](https://user-images.githubusercontent.com/105255508/186522942-6b850559-229e-48c5-8d9a-ce456d0cd973.png)
 
 Resolución 
+
+![image](https://user-images.githubusercontent.com/105255508/186540750-475d0266-0416-4340-a792-10d6569f1970.png)
 
 PARTE 2: CIRCUITOS EN PARALELO
 
@@ -156,6 +281,8 @@ SECCIÓN 15–5 Impedancia y admitancia de circuitos RC en paralelo
 
 Resolución 
 
+![image](https://user-images.githubusercontent.com/105255508/186540850-119e8c76-0dd1-4563-84e3-037caaad9862.png)
+
 42. Repita el problema 41 para las siguientes frecuencias:
 
 (a)	1.5 kHz   (b) 3 kHz   (c) 5 kHz   (d)  10 kHz
@@ -166,6 +293,14 @@ Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94.
 
 Resolución 
 
+(a) ![image](https://user-images.githubusercontent.com/105255508/186540902-b6c291ed-a7d4-42d2-abc1-509bf071c2ad.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186540916-af2ab09d-0076-42b5-9355-f63c092428bf.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186540932-6bb08d3c-cc37-48a2-a304-d1b46fb698d2.png)
+
+(d) ![image](https://user-images.githubusercontent.com/105255508/186540944-1e50360b-582e-453b-918e-869ae58ba4b8.png)
+
 SECCIÓN 15–6 Análisis de circuitos RC en paralelo
 
 44. Para el circuito en paralelo de la figura 15-96, encuentre la magnitud de cada corriente de rama y la corriente total. ¿Cuál es el ángulo de fase entre el voltaje aplicado y la corriente total?
@@ -174,6 +309,8 @@ SECCIÓN 15–6 Análisis de circuitos RC en paralelo
 
 Resolución 
 
+![image](https://user-images.githubusercontent.com/105255508/186540987-5a98da56-34a8-445e-9e4c-183fcf70a922.png)
+
 46. Repita el problema 45 con R = 5.6 kΩ, C1 = 0.047 µF, C2 = 0.022 µF, y f = 500 Hz
 Para el circuito de la figura 15-97, determine lo siguiente:
  
@@ -181,11 +318,25 @@ Para el circuito de la figura 15-97, determine lo siguiente:
  
 Resolución 
 
+![image](https://user-images.githubusercontent.com/105255508/186541108-d44d81e8-d157-4159-8ead-97cf1437ffe2.png)
+
+(a) ![image](https://user-images.githubusercontent.com/105255508/186541128-7e89a219-202c-4502-85ba-40a2717a8b65.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186541143-8037531b-d21a-40ef-9e72-c6148fe7103b.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186541163-c8a2f727-0301-492e-a16e-20d749eb08e0.png)
+
+(d) ![image](https://user-images.githubusercontent.com/105255508/186541177-a8c8caca-c6ff-4521-a3ea-12d8500ff71b.png)
+
+(e) ![image](https://user-images.githubusercontent.com/105255508/186541206-3e0e8080-a190-49c3-85d5-72700c3fc023.png)
+
 48. Determine el valor al cual R1 debe ser ajustado para obtener un ángulo de fase de 30° entre el voltaje de fuente y la corriente total en la figura 15-99.
  
 ![image](https://user-images.githubusercontent.com/105255508/186523074-9a61e83d-bfaf-41e0-920f-4487605e1d60.png)
 
 Resolución 
+
+![image](https://user-images.githubusercontent.com/105255508/186541258-b1fe7f71-da17-42b2-b95a-c87a3a1cc515.png)
 
 PARTE 3: CIRCUITOS EN SERIE-PARALELO 
 
@@ -197,6 +348,10 @@ SECCIÓN 15–7 Análisis de circuitos RC en serie-paralelo
 
 Resolución 
 
+![image](https://user-images.githubusercontent.com/105255508/186541460-6d3042bc-f288-487b-9aed-21c90fb169d1.png)
+
+R= El circuito es predominantemente capacitivo 
+
 52. Para el circuito de la figura 15-101, determine lo siguiente
  
 ![image](https://user-images.githubusercontent.com/105255508/186523130-08a1f03e-b413-4dd3-9a6f-9465117b5921.png)
@@ -205,17 +360,35 @@ Resolución
 
 Resolución 
 
+![image](https://user-images.githubusercontent.com/105255508/186541638-1cc2c1b5-a6c3-4d56-85d2-3953bc7af83c.png)
+
+(a) ![image](https://user-images.githubusercontent.com/105255508/186541655-20d2c264-98e5-457f-b3d6-e59c35a33adb.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186541671-bb52edc2-ad51-461c-8899-3d61799d4a81.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186541678-112544b7-74ba-440b-b8e5-ce8d5cd521af.png)
+
+(d) ![image](https://user-images.githubusercontent.com/105255508/186541695-7713518d-82d0-42f7-834b-ae6ae747b04f.png)
+
+(e) ![image](https://user-images.githubusercontent.com/105255508/186541706-b70cf894-383a-4d9d-b783-b75c0d002903.png)
+
+(f) ![image](https://user-images.githubusercontent.com/105255508/186541721-a10b6688-eef3-4751-86a5-8971189eccee.png)
+
 54. Determine el voltaje y su ángulo de fase en cada punto rotulado en la figura 15-103.
 
 ![image](https://user-images.githubusercontent.com/105255508/186523188-15af7368-f86c-41de-b99c-866ba13c1f54.png)
 
 Resolución 
 
+![image](https://user-images.githubusercontent.com/105255508/186541844-44a08e53-5e5a-4dfe-921a-c1934c3c38e8.png)
+
 56. Trace el diagrama fasorial de voltaje y corriente para la figura 15-103.
 
 ![image](https://user-images.githubusercontent.com/105255508/186523219-ea9b95c0-1973-4fde-b7d4-2559bd94025b.png)
 
 Resolución 
+
+![image](https://user-images.githubusercontent.com/105255508/186541879-5a7abc99-0e40-4003-bf94-bccf41f448d1.png)
 
 PARTE 4: TEMAS ESPECIALES
 
@@ -227,11 +400,19 @@ SECCIÓN 15–8 Potencia en circuitos RC
 
 Resolución 
 
+![image](https://user-images.githubusercontent.com/105255508/186541914-b62ed13e-3cf1-460f-97be-ca3220682d7f.png)
+
 60. Determine Preal, Pr, Pa, y FP para el circuito de la figura 15-101. Trace el triángulo de potencia.
 
 ![image](https://user-images.githubusercontent.com/105255508/186523291-d60656b2-8a96-4e0c-b0ab-09d73d88e4b1.png)
 
 Resolución 
+
+![image](https://user-images.githubusercontent.com/105255508/186541948-aa20573c-8306-4050-af4a-170f7266f078.png)
+
+Triangulo de Potencia 
+
+![image](https://user-images.githubusercontent.com/105255508/186542013-05f4a5a2-772a-4033-bd20-74a836c3786a.png)
 
 SECCIÓN 15–9 Aplicaciones básicas 
 
@@ -241,11 +422,15 @@ SECCIÓN 15–9 Aplicaciones básicas
 
 Resolución 
 
+![image](https://user-images.githubusercontent.com/105255508/186542138-825e9d3d-8a3d-4ed4-a00b-4f24d2ec5c9c.png)
+
 64. El valor rms del voltaje de señal que sale del amplificador A en la figura 15-105 es de 50 mV. Si la resistencia de entrada al amplificador B es de 10 kµ, ¿qué tanto de la señal se pierde debido al capacitor de acoplamiento cuando la frecuencia es de 3 kHz?
 
 ![image](https://user-images.githubusercontent.com/105255508/186523360-70403998-a9f1-44db-9fbd-98f7bb9b1adc.png)
 
 Resolución 
+
+![image](https://user-images.githubusercontent.com/105255508/186542639-7e8703fa-a4ae-4393-abce-6a114ceac360.png)
 
 SECCIÓN 15–10 Localización de fallas
 
@@ -255,13 +440,37 @@ SECCIÓN 15–10 Localización de fallas
 
 Resolución 
 
+(a) ![image](https://user-images.githubusercontent.com/105255508/186542758-785e6157-326a-4d54-9c76-1edc40d44ed9.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186542782-53ba9c9a-678a-41eb-9d53-f39d53635a6c.png)
+
 68. Determine el voltaje de salida para el circuito de la figura 15-107(b) para cada uno de los siguientes modos de falla, y compárelo con la salida correcta:
 
- (a) C abierto (b) C en cortocircuito (c) R1 abierto (d) R2 abierto (e) R3 abierto
+(a) C abierto (b) C en cortocircuito (c) R1 abierto (d) R2 abierto (e) R3 abierto
 
 ![image](https://user-images.githubusercontent.com/105255508/186523601-831e7cf9-6e5d-4ead-b743-1f73ba1631a0.png)
 
 Resolución 
+
+(a) Vsal = 0 V 
+
+R= Menos de lo normal
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186542936-b84342d9-1a7c-4b48-a3ba-9cc4d7bb262b.png)
+
+R= Mayor que la salida normal 
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186542987-e33e7ec5-6f66-4e33-83a0-e156c6296621.png)
+
+R= Mayor que la salida normal 
+
+(d) Vsal = 0 V
+
+R= Menos de lo normal
+
+(e) ![image](https://user-images.githubusercontent.com/105255508/186543099-e5968844-faef-472e-ac10-22f4a9812d1d.png)
+
+R= Mayor que la salida normal 
 
 CAPITULO 16 
 
@@ -275,6 +484,8 @@ Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es 
 
 Resolución 
 
+R= I, VR y VL, son ondas de forma sinusoidal.
+
 SECCIÓN 16–2 Impedancia de circuitos RL en serie 
 
 4. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 16-55. Trace los diagramas de impedancia.
@@ -283,11 +494,23 @@ SECCIÓN 16–2 Impedancia de circuitos RL en serie
 
 Resolución 
 
+(a) ![image](https://user-images.githubusercontent.com/105255508/186543327-35843438-7456-47c7-b965-f68c94a83a1c.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186543348-7addca74-3d1c-4dff-9452-c561f5c18ac6.png)
+
 6. Determine los valores de R y XL en un circuito RL en serie con los siguientes valores de impedancia
 
 ![image](https://user-images.githubusercontent.com/105255508/186523656-7e7bc42f-c3fa-4af2-8819-fc82f20c95da.png)
  
 Resolución 
+
+(a) ![image](https://user-images.githubusercontent.com/105255508/186543526-fa9abd89-f835-4037-aa5c-c5b71af15703.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186543538-fd183bbb-64a1-4cd5-9393-c3caf0debf3c.png)
+
+(c) ![image](https://user-images.githubusercontent.com/105255508/186543555-f8e54173-1e2b-4d54-88d4-f23ec5593b12.png)
+
+(d) ![image](https://user-images.githubusercontent.com/105255508/186543562-8b4f0208-c15e-4175-a5f8-a5707fc00c02.png)
 
 SECCIÓN 16–3 Análisis de circuitos RL en serie
 
@@ -297,13 +520,19 @@ SECCIÓN 16–3 Análisis de circuitos RL en serie
 
 Resolución 
 
+![image](https://user-images.githubusercontent.com/105255508/186543611-0195f951-4894-4af3-94b4-9d4ceb5bf7f5.png)
+
 10. Exprese la corriente en forma polar para cada circuito de la figura 16-54.
 
 ![image](https://user-images.githubusercontent.com/105255508/186523705-65519ab3-df06-4b2e-9508-460e941ba227.png)
 
 Resolución 
 
-12. Determine u para el circuito de la figura 16-58. 
+(a) ![image](https://user-images.githubusercontent.com/105255508/186543642-3edc3a7e-1b30-4ef7-a9e6-da6bf9bad00a.png)
+
+(b) ![image](https://user-images.githubusercontent.com/105255508/186543652-afb124df-55d9-418c-a58e-5f86c0be6f5d.png)
+
+12. Determine θ para el circuito de la figura 16-58. 
  
 ![image](https://user-images.githubusercontent.com/105255508/186523735-d72bf41c-60fe-4eda-b90d-612c89deaf8d.png)
 
