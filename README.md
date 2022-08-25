@@ -8,6 +8,29 @@ Objetivo Especifico
 
 2. MARCO TEORICO 
 
+![image](https://user-images.githubusercontent.com/105255508/186566496-cecae809-73be-4be0-804f-71720465959e.png)
+
+![image](https://user-images.githubusercontent.com/105255508/186566531-b44199a0-4188-46b3-9527-ca495ebd35d1.png)
+
+![image](https://user-images.githubusercontent.com/105255508/186566626-9bd295f9-12dd-4628-b4bb-4d6b34db782a.png)
+
+![image](https://user-images.githubusercontent.com/105255508/186566664-498fe4f7-1f3a-48d5-8b09-0b1e58118ee9.png)
+
+![image](https://user-images.githubusercontent.com/105255508/186566739-ea2fce48-b9ea-4dde-ae7c-40343d9ad758.png)
+
+![image](https://user-images.githubusercontent.com/105255508/186566769-b4c6011f-1e71-40ae-86ba-3155456e27e4.png)
+
+![image](https://user-images.githubusercontent.com/105255508/186566794-212ee138-6052-459a-90a8-0f2976fcc1cc.png)
+
+![image](https://user-images.githubusercontent.com/105255508/186566858-77ddc658-f6ba-4106-900e-67fa0c890b88.png)
+
+![image](https://user-images.githubusercontent.com/105255508/186566885-c6bfb475-0d34-4c9a-bfd5-2708fb0772a8.png)
+
+![image](https://user-images.githubusercontent.com/105255508/186566918-bbeb82f6-43d4-4e93-85b7-82136692bdc9.png)
+
+![image](https://user-images.githubusercontent.com/105255508/186567046-430ff872-4d9a-444b-9838-f74348e62ead.png)
+
+![image](https://user-images.githubusercontent.com/105255508/186567081-6fc639b9-ebcf-44aa-89bc-6de1aba1cdb0.png)
 
 3 EXPLICACION Y RESOLUCION DE EJERICIOS O PROBLEMAS
 
