@@ -755,11 +755,11 @@ SECCIÓN 16–9 Localización de fallas
 
 44. Determine el voltaje a través de cada componente mostrado en la figura 16-73 si L1 está abierto.
 
-![image](https://user-images.githubusercontent.com/105255508/186550742-2bf55c72-c3c4-4ee3-9196-b7d65374ecda.png)
+![image](https://user-images.githubusercontent.com/105255508/186570844-d65d0512-5e4d-432f-a8e0-74fc0e25939a.png)
 
 Resolución 
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/105255508/186550742-2bf55c72-c3c4-4ee3-9196-b7d65374ecda.png)
 
 4. VIDEO 
 
