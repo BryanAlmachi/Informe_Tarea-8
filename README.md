@@ -4,7 +4,15 @@ OBJETIVO
 
 Objetivo General
 
+•	Comprender y analizar los conceptos expuestos en el libro de Floyd “Principios de Circuitos Eléctricos” que se encuentran en el capítulo 15 y 16, dado que es importante analizar los circuitos RC que contiene resistencia como capacitancia y los circuitos RL que contiene resistencia como inductancia.
+
 Objetivo Especifico 
+
+•	Describir las características más importantes de los circuitos en serie RC y la relación entre corriente y voltaje en un circuito RC en serie, para poder determinar circuitos en paralelo y circuitos en serie-paralelo.
+
+•	Conocer los conceptos sobre las características de los circuitos RL dispuestos en serie y en paralelo para describir la relación entré corriente y voltaje de un circuito RL en serie.
+
+•	Aplicar los conocimientos adquiridos en el capítulo 15 y 16 del libro Principios de circuitos Eléctricos, mediando la resolución de ejercicios poniendo en práctica lo aprendido sobre los circuitos RC y RL.
 
 2. MARCO TEORICO 
 
@@ -764,6 +772,14 @@ Parte 2
 https://youtu.be/jXy_aIRYPKk
 
 5. CONCLUSIONES
+
+•	Por tanto, cuando se aplica un voltaje sinusoidal a un circuito RC, la corriente y todas las caídas de voltaje también son ondas seno y la corriente total que circula en un circuito RC en serie o en paralelo siempre se adelanta al voltaje de la fuente. Sin olvidar que un en un circuito RC, tanto la resistencia como la reactancia capacitiva combinadas determinan la impedancia.
+
+•	En relación con lo antes expuesto, el voltaje en el capacitor siempre se retrasa en 90° con respecto a la corriente y en un circuito de retraso, el voltaje de salida se retrasa con respecto al voltaje de entrada en fase y en un circuito RC, una parte de la potencia es resistiva y otra es reactiva.
+
+•	Para resumir, cuando se aplica un voltaje sinusoidal a un circuito RL, la corriente y todas las caídas de voltaje son ondas senoidales y la impedancia de un circuito RL varía directamente con la frecuencia sin olvidar que la corriente total en un circuito RL en serie o en paralelo siempre se retrasa con respecto al voltaje de fuente.
+
+•	Para sintetizar, es importante que en un circuito RL tanto la resistencia como la reactancia inductiva combinadas determinan la impedancia, y un inductor ideal, el voltaje siempre aparece 90° por delante de la corriente, y el voltaje a través del resistor siempre está en fase con la corriente.
 
 6. BIBLIOGRAFIA
 
